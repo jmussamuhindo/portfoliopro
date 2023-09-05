@@ -24,6 +24,7 @@ export default function AboutMe(props) {
         "Redux for state management",
         "Building REST API",
         "Managing database",
+        "Netwok Security",
       ],
       heading: "Here are a few Highlights:",
     },

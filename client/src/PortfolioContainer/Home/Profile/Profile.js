@@ -34,10 +34,6 @@ export default function () {
           </div>
           <div className="profile-details-role">
             <span className="primary-text">
-              {" "}
-              <h1>
-                {" "}
-              </h1>
               <span className="profile-role-tagline">
               "Coding the Future: Crafting Solutions, One Line at a Time."
               </span>
