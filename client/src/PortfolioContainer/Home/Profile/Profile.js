@@ -12,8 +12,8 @@ export default function () {
               <a href="https://www.facebook.com/profile.php?id=100002794027900">
                 <i className="fa fa-facebook-square"></i>
               </a>
-              <a href="#">
-                <i className="fa fa-google-plus-square"></i>
+              <a href="https://www.linkedin.com/in/justin-muhindo-mussa-0a271b255/">
+                <i className="fa fa-linkedin"></i>
               </a>
               <a href="https://www.instagram.com/muhijust05/">
                 <i className="fa fa-instagram"></i>
